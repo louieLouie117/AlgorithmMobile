@@ -15,4 +15,3 @@ function findNeedle(hayStack) {
   // your code here
 }
 
-test

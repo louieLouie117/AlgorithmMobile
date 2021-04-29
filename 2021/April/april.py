@@ -8,5 +8,4 @@ def find_needle(hayStack):
             found = 'found the needle at position ' + str(i)
             return found
     # your code here
-    Tes
     

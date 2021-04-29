@@ -121,5 +121,3 @@ const arrowFunction = (e, p1, p2) => {
 
 
 // Using them all together:
-
-test

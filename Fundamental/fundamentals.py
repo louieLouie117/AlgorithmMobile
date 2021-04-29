@@ -94,5 +94,3 @@ myFunction("Janeth")
 myFunction("Evelyn")
 myFunction("Christopher")
 myFunction("Emily")
-
-test
